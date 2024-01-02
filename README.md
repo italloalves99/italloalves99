@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italloalves99&layout=compact&theme=holi">
 </div>
 Technologies I use in my day
-[![Skills](https://devicons.dev.br/icons?icon=Python,AWS,NodeJS,PostgreSQL,RabbitMQ&theme=dark)](https://devicons.dev.br/)
+[![Skills](https://devicons.dev.br/icons?icon=Python,AWS,NodeJS,PostgreSQL,RabbitMQ,Powershell&theme=light)](https://devicons.dev.br/)
 </div><br>
 <div> 
   
