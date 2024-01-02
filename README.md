@@ -6,8 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italloalves99&layout=compact&theme=holi">
 </div>
 Technologies I use in my day
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg](https://devicons.dev.br/icons?icon=PHP,React,JavaScript,HTML,CSS,Github,GitLab,MySQL,Jenkins,Bootstrap&size=48&theme=light&perline=5)">
+[![Skills](https://devicons.dev.br/icons?icon=Python,AWS,NodeJS,PostgreSQL,RabbitMQ&theme=dark)](https://devicons.dev.br/)
 </div><br>
 <div> 
   
