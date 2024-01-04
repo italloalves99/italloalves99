@@ -1,4 +1,4 @@
-### Hello! I am Itallo 🖐️
+### Hello!
 
 <div>
   <a href="">
