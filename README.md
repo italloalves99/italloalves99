@@ -7,7 +7,7 @@
 </div>
 <br>
 
-[![Skills](https://devicons.dev.br/icons?icon=PHP,React,JavaScript,CSS,HTML,Github,GitLab,MySQL&size=48&theme=dark&perline=8)](https://devicons.dev.br/)
+
 
 
 
