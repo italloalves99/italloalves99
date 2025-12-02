@@ -31,7 +31,6 @@ Meu foco é entregar soluções **performáticas, profissionais e fáceis de man
 
 ## 🧠 Atualmente estudando
 
-- Laravel  
 - Java + Spring Boot  
 - Flutter  
 - Arquitetura de Software  
@@ -62,35 +61,6 @@ Meu foco é entregar soluções **performáticas, profissionais e fáceis de man
 
 ---
 
-## 📌 Projetos em destaque
-
-### 🔹 **Sistema de Ponto Eletrônico**
-Sistema completo com autenticação, registro de ponto, painel administrativo e integração com banco de dados.
-
-**Stacks:** Flutter • PHP • MySQL  
-
----
-
-### 🔹 **Admin Flutter + Permissões Dinâmicas**
-Dashboard administrativo com login seguro, menus dinâmicos, CRUD de usuários e integração com API.
-
-**Stacks:** Flutter • PHP • API REST  
-
----
-
-### 🔹 **API de Compliance**
-API estruturada com autenticação JWT, permissões, logs e documentação via Swagger.
-
-**Stacks:** PHP Puro • JWT • Swagger  
-
----
-
-### 🔹 **Robô de Automação / Scraper**
-Ferramentas em Python para coletar dados, tratar, salvar em MySQL e integrar sistemas.
-
-**Stacks:** Python • Scrapy • MySQL  
-
----
 
 ## 📊 Estatísticas
 
