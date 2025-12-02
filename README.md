@@ -1,44 +1,43 @@
-<!-- Header opcional -->
 <p align="center">
   <img src="https://img.shields.io/badge/Itallo%20Dev-Full%20Stack%20Developer-3b82f6?style=for-the-badge&logo=github" alt="Itallo Dev">
 </p>
 
 <h1 align="center">🚀 Itallo Alves</h1>
-<p align="center">Desenvolvedor Full Stack • PHP • JavaScript • MySQL • Python</p>
+<p align="center">Full Stack Developer — PHP • JavaScript • SQL • Python</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou desenvolvedor **Full Stack** com experiência sólida no desenvolvimento de sistemas web, APIs REST, dashboards administrativos e automações.
+I’m a **Full Stack Developer** with solid experience building web systems, REST APIs, admin dashboards, automations, and data-driven applications.
 
-No meu dia a dia trabalho com:
+On a daily basis I work with:
 
-- **PHP puro**
-- **JavaScript** e **jQuery**
+- **PHP (pure)**
+- **JavaScript** and **jQuery**
 - **Bootstrap**
-- **MySQL** e **SQL Server**
-- **Python** (automação e scrapers)
-- **AWS** (S3, EC2, CloudFront)
+- **MySQL** and **SQL Server**
+- **Python** (automation & scraping)
 
-Desenvolvo sistemas completos com autenticação segura, fluxos administrativos, permissões dinâmicas, CRUDs avançados, integrações com APIs e interfaces responsivas.
+I develop complete systems with secure authentication, permission-based access control, dynamic menus, advanced CRUD flows, API integrations, and responsive interfaces.
 
-Atualmente estou avançando para stacks modernas como **Laravel**, **Java + Spring Boot** e **Flutter**, buscando evoluir para arquitetura limpa e melhores práticas de escalabilidade.
+I am currently expanding my stack with **Laravel**, **Java + Spring Boot**, and **Flutter**, focusing on clean architecture, scalability, and modern development practices.
 
-Meu foco é entregar soluções **performáticas, profissionais e fáceis de manter**.
+My goal is to deliver **scalable, fast, and maintainable** solutions — from backend to frontend.
 
 ---
 
-## 🧠 Atualmente estudando
+## 📘 Currently Learning
 
+- Laravel  
 - Java + Spring Boot  
 - Flutter  
-- Arquitetura de Software  
-- AWS (S3, EC2, CloudFront)  
+- Software Architecture  
+- AWS (S3, EC2, CloudFront)
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tech Stack
 
 ### **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
@@ -53,15 +52,45 @@ Meu foco é entregar soluções **performáticas, profissionais e fáceis de man
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
-### **Estudando / Evoluindo**
+### **Learning / Improving**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 
 ---
 
+## 📌 Featured Projects
 
-## 📊 Estatísticas
+### 🔹 **Time Tracking System**
+A full solution for time control with authentication, work shifts, admin panel, and database integration.
+
+**Stack:** Flutter • PHP • MySQL  
+
+---
+
+### 🔹 **Flutter Admin Panel with Dynamic Permissions**
+Admin dashboard with secure login, role-based menu, responsive layout, and full CRUD integration.
+
+**Stack:** Flutter • PHP • REST API  
+
+---
+
+### 🔹 **Compliance API**
+REST API with JWT authentication, permission control, logging, and Swagger documentation.
+
+**Stack:** PHP • JWT • Swagger  
+
+---
+
+### 🔹 **Data Scraper Automation**
+Python bots for automated data collection, processing, and sending to MySQL or APIs.
+
+**Stack:** Python • Scrapy • MySQL  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=italloalves99&show_icons=true&theme=tokyonight&hide_border=false" height="150" />
@@ -70,11 +99,12 @@ Meu foco é entregar soluções **performáticas, profissionais e fáceis de man
 
 ---
 
-## 🌐 Links
+## 🌐 Connect with me
 
-- 🌐 **Site:** https://itallodev.com  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/itallo](https://www.linkedin.com/in/itallo-alves-4b4953225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- ✉️ **E-mail:** itallodev21@gmail.com  
+- 🌐 Website: https://itallodev.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/itallo](https://www.linkedin.com/in/itallo-alves-4b4953225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- ✉️ Email: itallodev21@gmail.com  
 
 ---
 
+<p align="center">✨ Always improving, always building.</p>
