@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Itallo%20Dev-Full%20Stack%20Developer-3b82f6?style=for-the-badge&logo=github" alt="Itallo Dev">
 </p>
 
-<h1 align="center">🚀 Itallo Alves</h1>
+<h1 align="center"> Itallo Alves</h1>
 <p align="center">Full Stack Developer — PHP • JavaScript • SQL • Python</p>
 
 ---
