@@ -60,36 +60,6 @@ My goal is to deliver **scalable, fast, and maintainable** solutions — from ba
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 **Time Tracking System**
-A full solution for time control with authentication, work shifts, admin panel, and database integration.
-
-**Stack:** Flutter • PHP • MySQL  
-
----
-
-### 🔹 **Flutter Admin Panel with Dynamic Permissions**
-Admin dashboard with secure login, role-based menu, responsive layout, and full CRUD integration.
-
-**Stack:** Flutter • PHP • REST API  
-
----
-
-### 🔹 **Compliance API**
-REST API with JWT authentication, permission control, logging, and Swagger documentation.
-
-**Stack:** PHP • JWT • Swagger  
-
----
-
-### 🔹 **Data Scraper Automation**
-Python bots for automated data collection, processing, and sending to MySQL or APIs.
-
-**Stack:** Python • Scrapy • MySQL  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
