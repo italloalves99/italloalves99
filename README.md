@@ -19,6 +19,7 @@ No meu dia a dia trabalho com:
 - **Bootstrap**
 - **MySQL** e **SQL Server**
 - **Python** (automação e scrapers)
+- **AWS** (S3, EC2, CloudFront)
 
 Desenvolvo sistemas completos com autenticação segura, fluxos administrativos, permissões dinâmicas, CRUDs avançados, integrações com APIs e interfaces responsivas.
 
