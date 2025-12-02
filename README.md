@@ -1,75 +1,93 @@
-<!-- Banner / Header (opcional) -->
+<!-- Header opcional -->
 <p align="center">
   <img src="https://img.shields.io/badge/Itallo%20Dev-Full%20Stack%20Developer-3b82f6?style=for-the-badge&logo=github" alt="Itallo Dev">
 </p>
 
 <h1 align="center">🚀 Itallo Alves</h1>
-<p align="center">Desenvolvedor Full Stack • PHP • Java • Flutter • AWS</p>
+<p align="center">Desenvolvedor Full Stack • PHP • JavaScript • MySQL • Python</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor **Full Stack** com experiência em sistemas web, APIs REST, dashboards administrativos, automações e aplicações mobile.
+Sou desenvolvedor **Full Stack** com experiência sólida no desenvolvimento de sistemas web, APIs REST, dashboards administrativos e automações.
 
-Atualmente trabalho com:
+No meu dia a dia trabalho com:
 
-- **PHP (Laravel, CakePHP)**
-- **Java (Spring Boot)**
-- **Flutter** (front/mobile)
-- **AWS** (S3, EC2, CloudFront)
-- Construção de APIs seguras com **JWT**, autenticação, permissões dinâmicas e arquitetura limpa.
+- **PHP puro**
+- **JavaScript** e **jQuery**
+- **Bootstrap**
+- **MySQL** e **SQL Server**
+- **Python** (automação e scrapers)
 
-Gosto de criar soluções escaláveis, performáticas e profissionais — desde o backend até a interface final.
+Desenvolvo sistemas completos com autenticação segura, fluxos administrativos, permissões dinâmicas, CRUDs avançados, integrações com APIs e interfaces responsivas.
+
+Atualmente estou avançando para stacks modernas como **Laravel**, **Java + Spring Boot** e **Flutter**, buscando evoluir para arquitetura limpa e melhores práticas de escalabilidade.
+
+Meu foco é entregar soluções **performáticas, profissionais e fáceis de manter**.
 
 ---
 
 ## 🧠 Atualmente estudando
 
+- Laravel  
+- Java + Spring Boot  
+- Flutter  
 - Arquitetura de Software  
-- Java + Spring Boot (APIs robustas e escaláveis)  
-- Flutter avançado  
-- Práticas modernas de deploy (CI/CD, AWS)
+- AWS (S3, EC2, CloudFront)  
 
 ---
 
-## 🚀 Minhas Principais Tecnologias
+## 🚀 Tecnologias
 
 ### **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=fff)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+
+### **Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+
+### **Estudando / Evoluindo**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)
-![CakePHP](https://img.shields.io/badge/CakePHP-d33c43?style=for-the-badge&logo=cakephp&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
-![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
-
-### **Frontend & Mobile**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)
-![Vue](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=fff)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000)
-
-### **Infra & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
 
 ---
 
 ## 📌 Projetos em destaque
 
-### 🔹 **Sistema de Ponto Eletrônico (Flutter + PHP)**
-Aplicação mobile + backend para registro de ponto, controle de jornada, autenticação e dashboard admin.
+### 🔹 **Sistema de Ponto Eletrônico**
+Sistema completo com autenticação, registro de ponto, painel administrativo e integração com banco de dados.
 
-### 🔹 **Admin Flutter + Menu Dinâmico**
-Sistema administrativo com login seguro, permissões por usuário, menu lateral dinâmico e CRUD completo.
+**Stacks:** Flutter • PHP • MySQL  
 
-### 🔹 **API de Compliance (PHP + JWT + Swagger)**
-API REST estruturada com autenticação, permissões, logs e documentação via Swagger.
+---
 
-### 🔹 **Robô de Coleta de Dados (Python)**
-Scraper automatizado para coleta de dados, normalização e envio para MySQL/API.
+### 🔹 **Admin Flutter + Permissões Dinâmicas**
+Dashboard administrativo com login seguro, menus dinâmicos, CRUD de usuários e integração com API.
 
-> 💡 *Se quiser, posso gerar README individuais para cada projeto também.*
+**Stacks:** Flutter • PHP • API REST  
+
+---
+
+### 🔹 **API de Compliance**
+API estruturada com autenticação JWT, permissões, logs e documentação via Swagger.
+
+**Stacks:** PHP Puro • JWT • Swagger  
+
+---
+
+### 🔹 **Robô de Automação / Scraper**
+Ferramentas em Python para coletar dados, tratar, salvar em MySQL e integrar sistemas.
+
+**Stacks:** Python • Scrapy • MySQL  
 
 ---
 
@@ -82,14 +100,11 @@ Scraper automatizado para coleta de dados, normalização e envio para MySQL/API
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Links
 
-<p align="left">
-  <a href="https://itallodev.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/🌐%20Site-itallodev.com-3b82f6?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/itallo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Itallo%20Alves-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:contato@itallodev.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contate--me-0284c7?style=for-the-badge&logo=gmail&logoColor=fff"></a>
-</p>
+- 🌐 **Site:** https://itallodev.com  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/itallo](https://www.linkedin.com/in/itallo-alves-4b4953225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- ✉️ **E-mail:** itallodev21@gmail.com  
 
 ---
 
-<p align="center">✨ Sempre construindo, sempre evoluindo.</p>
