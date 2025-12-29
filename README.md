@@ -58,14 +58,6 @@ My goal is to deliver **scalable, fast, and maintainable** solutions — from ba
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=italloalves99&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italloalves99&layout=compact&theme=dark" height="150"/>
-</p>
 
 
 
