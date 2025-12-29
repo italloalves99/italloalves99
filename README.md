@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Itallo Alves</h1>
-<p align="center">Full Stack Developer — PHP • JavaScript • SQL • Python</p>
+<p align="center">Full Stack Developer — PHP • JavaScript • SQL • Python • Java • Dart</p>
 
 ---
 
